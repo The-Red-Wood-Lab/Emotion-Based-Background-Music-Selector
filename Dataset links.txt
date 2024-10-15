@@ -1,0 +1,2 @@
+Facial expression dataset  link - https://www.kaggle.com/datasets/msambare/fer2013 (63.8 MB)
+Spotify one million dataset link - https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files (5.8 GB)
